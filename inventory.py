@@ -65,4 +65,4 @@ class Inventory:
         if not found:
             print("| No expired medicines found.                  |")
         print("+----------+----------------------+----------------+")
-#             
+            
